@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<b>Яна Алексеева</b>
+
+Студент Яндекс.Практикума по специальности Data Science.
+
+<b>Мои репозитории:</b>
+
+https://github.com/ianalx/yandex_praktikum_projects
